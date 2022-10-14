@@ -267,19 +267,6 @@
           </div>
         </div>
         <div class="row m-0">
-          
-          <!-- Alert Success -->
-          <div class="alert alert-success alert-dismissible fade show d-none success-alert" role="alert">
-            <strong>Thanks</strong> for contact us
-            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-          </div>
-
-          <!-- Alert Error -->
-          <div class="alert alert-warning alert-dismissible fade show d-none error-alert" role="alert">
-            <strong>Thanks</strong> for contact us
-            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-          </div>
-
           <form action="#" class="p-4 m-auto" name="mezzany-contact-form">
             <div class="col-md-12 p-0 pt-4 pb-4">
               <div class="row">
@@ -298,7 +285,7 @@
                     <textarea rows="4" class="form-control" required placeholder="Your Query Here" name="pesan"></textarea>
                   </div>
                 </div>
-                <button class="btn btn-warning btn-submit mt-3" type="submit">Send Now</button>
+                <button class="btn btn-warning btn-sub mt-3" type="submit">Send Now</button>
 
                 <button class="btn btn-warning btn-loading d-none" type="button" disabled>
                   <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
@@ -307,6 +294,24 @@
               </div>
             </div>
           </form>
+                    
+          <!-- Alert -->
+          <div class="col-md-12">
+
+            <!-- Alert Success -->
+            <div class="alert alert-success alert-dismissible fade show d-none suc-alert" role="alert">
+              <strong>Thanks</strong> for contact us, we have received your message :)
+              <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+  
+            <!-- Alert Error -->
+            <div class="alert alert-warning alert-dismissible fade show d-none err-alert" role="alert">
+              <strong>Sorry</strong> an error occurred, contact us later :(
+              <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+
+          </div>
+
         </div>
       </div>
     </section>
@@ -314,9 +319,9 @@
 
 
     <!-- Alert -->
-    <div class="alert alert-warning" role="alert">
+    <!-- <div class="alert alert-warning" role="alert">
       We give discounts up to 65% for new member <a href="" class="alert-link">sign-up</a> or <a href="#contact" class="alert-link">contact us</a> now. Don't be late!!! 
-    </div>
+    </div> -->
     <!-- End Alert -->
 
 
@@ -414,25 +419,25 @@
     <script>
       const scriptURL = 'https://script.google.com/macros/s/AKfycbxhXfmYS-3CI-dJipq2u02uge6bw2WG2Fl5MjyiMr2LMZqvuBKC6aR1PVPmcymRQDkxSQ/exec'
       const form = document.forms['mezzany-contact-form']
-      const btnSubmit = document.querySelector ('.btn-submit');
+      const btnSubmit = document.querySelector ('.btn-sub');
       const btnLoading = document.querySelector ('.btn-loading');
-      const successAlert = document.querySelector ('.success-alert');
-      const errorAlert = document.querySelector ('.error-alert');
+      const successAlert = document.querySelector ('.suc-alert');
+      const errorAlert = document.querySelector ('.err-alert');
     
       form.addEventListener('submit', e => {
         e.preventDefault();
 
-        // ketika tombol submit diklik, tampilkan loading dan hilangkan tombal submit
-        btnLoading.classList.toggle('.d-none');
-        btnSubmit.classList.toggle('.d-none');
+        // ketika tombol submit diklik, tampilkan loading dan hilangkan tombol submit
+        btnLoading.classList.toggle('d-none');
+        btnSubmit.classList.toggle('d-none');
 
         fetch(scriptURL, { method: 'POST', body: new FormData(form)})
           .then(response => {
             // tampilkan tombol submit dan hilangkan loading
-            btnLoading.classList.toggle('.d-none');
-            btnSubmit.classList.toggle('.d-none');
+            btnLoading.classList.toggle('d-none');
+            btnSubmit.classList.toggle('d-none');
             // tampilkan alert
-            successAlert.classList.toggle('.d-none');
+            successAlert.classList.toggle('d-none');
             // reset form
             form.reset();
             // pesan di console
@@ -440,10 +445,10 @@
         })
           .catch(error => {
             // tampilkan tombol submit dan hilangkan loading
-            btnLoading.classList.toggle('.d-none');
-            btnSubmit.classList.toggle('.d-none');
+            btnLoading.classList.toggle('d-none');
+            btnSubmit.classList.toggle('d-none');
             // tampilkan alert
-            errorAlert.classList.toggle('.d-none');
+            errorAlert.classList.toggle('d-none');
             // pesan di console
             console.error('Error!', error.message)
         })
