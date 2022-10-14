@@ -429,8 +429,8 @@
         fetch(scriptURL, { method: 'POST', body: new FormData(form)})
           .then(response => {
             // tampilkan tombol submit dan hilangkan loading
-            btnLoading.classList.toggle('d-none');
-            btnSubmit.classList.toggle('d-none');
+            btnLoading.classList.toggle('.d-none');
+            btnSubmit.classList.toggle('.d-none');
             // tampilkan alert
             successAlert.classList.toggle('.d-none');
             // reset form
@@ -440,10 +440,10 @@
         })
           .catch(error => {
             // tampilkan tombol submit dan hilangkan loading
-            btnLoading.classList.toggle('d-none');
-            btnSubmit.classList.toggle('d-none');
+            btnLoading.classList.toggle('.d-none');
+            btnSubmit.classList.toggle('.d-none');
             // tampilkan alert
-            errorAlert.classList.toggle('d-none');
+            errorAlert.classList.toggle('.d-none');
             // pesan di console
             console.error('Error!', error.message)
         })
