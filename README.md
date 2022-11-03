@@ -17,11 +17,11 @@ Aplikasi berbasis website menggunakan HTML, Bootstrap CSS dan Javascript yang re
 
 
 ### Responsive
-![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_27 AM](https://user-images.githubusercontent.com/106570247/199629324-08bcd32e-eaa1-4066-9827-e0431abd03ab.png)
-![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_35 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_46 AM](https://user-images.githubusercontent.com/106570247/199629348-2fcb6997-f95b-4f24-a479-c54c66d60ce0.png)
-AM](https://user-images.githubusercontent.com/106570247/199629337-da3ed40b-1e31-4906-9e5f-8205![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_54 AM](https://user-images.githubusercontent.com/106570247/199629383-cea53378-a917-4c1d-9d62-7f9d9153b24d.png)
-55a87f29.png)
-![Uploading Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_54 AM.png…]()
-![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_55_01 AM](https://user-images.githubusercontent.com/106570247/199629389-6675be69-d3cf-4667-a3ca-5bc353b2f372.png)
+![Uploading Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_27 AM.png…]()
+![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_35 AM](https://user-images.githubusercontent.com/106570247/199629576-ad421e5b-a439-4b85-90d4-3538322ec272.png)
+![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_46 AM](https://user-images.githubusercontent.com/106570247/199629580-117adcf4-d286-4bbb-a680-d58109b88205.png)
+![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_54 AM](https://user-images.githubusercontent.com/106570247/199629590-14c60801-cdb3-49c4-ae89-9d37a8fff2a2.png)
+![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_55_01 AM](https://user-images.githubusercontent.com/106570247/199629593-acbea284-d678-402a-a27c-9c47a1c1b544.png)
+
 ##### Navbar
 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_55_10 AM](https://user-images.githubusercontent.com/106570247/199629392-bfceef4c-3226-42f9-b70c-db5a3ebadd0e.png)
