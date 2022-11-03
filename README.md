@@ -17,7 +17,7 @@ Aplikasi berbasis website menggunakan HTML, Bootstrap CSS dan Javascript yang re
 
 
 ### Responsive
-![Uploading Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_27 AM.png…]()
+![Beige Clean Lines Marketing Executive Resume - A4 - Google Chrome 11_3_2022 7_16_33 AM](https://user-images.githubusercontent.com/106570247/199629702-c1359b5e-5f51-4ccc-9e4a-2c03c71fe7a1.png)
 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_35 AM](https://user-images.githubusercontent.com/106570247/199629576-ad421e5b-a439-4b85-90d4-3538322ec272.png)
 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_46 AM](https://user-images.githubusercontent.com/106570247/199629580-117adcf4-d286-4bbb-a680-d58109b88205.png)
 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_54 AM](https://user-images.githubusercontent.com/106570247/199629590-14c60801-cdb3-49c4-ae89-9d37a8fff2a2.png)
