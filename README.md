@@ -16,7 +16,7 @@ Aplikasi berbasis website menggunakan HTML, Bootstrap CSS dan Javascript yang re
 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_00 AM](https://user-images.githubusercontent.com/106570247/199629291-0055c9cd-f168-46a4-8c0e-f6327b122cee.png)
 
 
-#### Responsive
+### Responsive
 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_27 AM](https://user-images.githubusercontent.com/106570247/199629324-08bcd32e-eaa1-4066-9827-e0431abd03ab.png)
 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_35 ![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_46 AM](https://user-images.githubusercontent.com/106570247/199629348-2fcb6997-f95b-4f24-a479-c54c66d60ce0.png)
 AM](https://user-images.githubusercontent.com/106570247/199629337-da3ed40b-1e31-4906-9e5f-8205![Pengertian DDL Adalah _ Fungsi dan Contoh DDL (Lengkap) - Google Chrome 11_3_2022 8_54_54 AM](https://user-images.githubusercontent.com/106570247/199629383-cea53378-a917-4c1d-9d62-7f9d9153b24d.png)
